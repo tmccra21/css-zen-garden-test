@@ -1,0 +1,376 @@
+@import url("Codigra/codriga.css");
+@import url("future_earth/earth.css");
+@import url("PLANK/plank.css");
+@import url("13_Misa/misa.css");
+@import url("upheavtt/upheat.css");
+@import url("02_10ITA/82.css");
+@import url("CONSRI/consiri.css");
+@import url("pixel/pixel.css");
+
+
+
+	
+h1{
+    color: #FF2B2F;
+    font-family: "future earth";
+    font-size: 100px;
+    margin-top: -20px;
+	
+
+	}
+
+h2{
+    color: #FF2B2F;
+    font-family: PLANK;
+    font-size: 70px;
+    margin-top: -315px;
+    margin-left: -1267px;
+    margin-right: 275px;
+    margin-bottom: 174px;
+    background-color: white;
+    float: right;
+}
+
+
+h3{
+    float: left;
+    margin-top: -100px;
+    margin-right: -1093px;
+    margin-left: -61px;
+    margin-bottom: -80px;
+}
+
+
+h4{
+    color: #8CFF11;
+    font-family: PLANK;
+    font-size: 70px;
+    float: center;
+    margin-top: -223px;
+    margin-left: 544px;
+    margin-bottom: -630px;
+}
+
+
+h4:hover span{
+	
+	color:chartreuse;
+	text-shadow: 0 0 10px #FFF,
+				 0 0 20px #FFF,
+				 0 0 40px #FFF,
+				 0 0 80px #FFF,
+				 0 0 10px #FFF;
+	
+	
+}
+
+
+h6{
+    color: white;
+    font-family: upheavtt;
+    font-size: 30px;
+    margin-top: -602px;
+    float: left;
+    margin-right: 136px;
+    margin-left: 272px;
+
+}
+
+
+h7{
+    color: #3722ba;
+    font-family: "02 10ITA";
+    font-size: 70px;
+    margin-top: -4px;
+    margin-left: -1267px;
+    margin-right: 595px;
+    margin-bottom: 174px;
+    float: right;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    background-color: black;
+}
+
+
+h8{
+    color: black;
+    font-family: upheavtt;
+    font-size: 30px;
+    margin-top: -542px;
+    float: left;
+    margin-right: 136px;
+    margin-left: 516px;
+    background-color: crimson;
+}
+
+h9{
+    color: #EA05FF;
+    font-family: CONSRI;
+    font-size: 70px;
+    margin-top: -125px;
+    float: left;
+    margin-right: 136px;
+    margin-left: 516px;
+}
+
+
+h9:hover span{
+    color: #001FFF;
+    text-shadow: 0 0 10px #FFF,
+				 0 0 20px #FFF,
+				 0 0 40px #FFF,
+				 0 0 80px #FFF,
+				 0 0 10px #FFF;
+    margin-top: 209px;	
+	
+}
+
+
+h10{
+    color: white;
+    font-family: pixel;
+    font-size: 30px;
+    margin-top: 16px;
+    float: left;
+    margin-right: 297px;
+    margin-left: 49px;
+    background-color: black;
+}
+
+
+h12{
+    color: crimson;
+    font-family: Codigra;
+    font-size: 50px;
+    margin-top: 1px;
+    float: left;
+    margin-right: 423px;
+    margin-left: 307px;
+    background-color: white;
+}
+
+h13{
+    color: #97DC13;
+    font-family: upheavtt;
+    font-size: 50px;
+    margin-top: 71px;
+    float: left;
+    margin-right: 282px;
+    margin-left: 524px;
+    background-color: black;
+}
+
+
+h15{
+    color: black;
+    font-family: upheavtt;
+    font-size: 30px;
+    margin-top: -801px;
+    float: left;
+    margin-right: 400px;
+    margin-left: 1168px;
+    background-color: white;
+}
+P1{
+    color: #F9FF00;
+    font-family: "future earth";
+    font-size: 63px;
+    margin-top: -170px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    background-color: black;
+    margin-right: 274px;
+    float: right;
+}
+p2{
+    color: white;
+    font-family: upheavtt;
+    font-size: 20px;
+    margin-bottom: auto
+}
+
+p3{color: #FF2B2F;
+	 font-family: "future earth";
+	font-size: 20px;
+	margin-bottom: auto
+	
+}
+
+p4{color: white;
+	font-family: Codigra;
+	font-size: 20px;
+	margin-bottom: 65px;
+}
+
+
+p5{
+    margin-bottom: 400px;
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+    margin-right: 8072px;
+    float: left;
+    margin-top: -4px;
+    margin-left: 155px;
+	}
+
+   
+p5{
+    margin-bottom: 400px;
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+    margin-right: 5984px;
+    float: left;
+    margin-top: -688px;
+    margin-left: 155px;
+	}
+p6{
+	margin-right: 100px;
+}
+
+	
+   
+p5{
+    margin-bottom: 400px;
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+    margin-right: 5984px;
+    float: left;
+    margin-top: -688px;
+    margin-left: 155px;
+	}
+
+
+
+   
+p5{
+    margin-bottom: 400px;
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+    margin-right: 5984px;
+    float: left;
+    margin-top: -780px;
+    margin-left: 155px;
+	}
+
+
+p8{
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+    margin-right: 772px;
+    margin-left: 380px;
+    margin-top: -958px;
+    margin-bottom: 241px;
+    float: right;
+}
+
+
+p9
+{
+    margin-top: 198px;
+    margin-right: 198px;
+    margin-left: 198px;
+    margin-bottom: 198px;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p9{
+    color: greenyellow;
+    font-family: Codigra;
+    font-size: 20px;
+    position: relative;
+    margin-top: 507px;
+    margin-right: 657px;
+    margin-left: 426px;
+    margin-bottom: 436px;
+    padding: 0;
+    height : 26px;
+    overflow: hidden;
+    float: left, center;
+}
+
+p9 span
+{
+    display: flex;
+    width: 215%;
+    height: 392%;
+    display: grid;
+    align-items: center;
+}
+
+p9:hover span
+{ 
+	animation: shuffle steps(5) 0.7s infinite;
+	
+	
+}
+
+@keyframes shuffle
+{
+	0%
+	{
+		transform: translateY(0px);
+			
+	}
+
+100%
+	{transform: translateY(-400px);
+	
+	}
+
+}
+p10{
+    color: white;
+    font-family: "future earth";
+    font-size: 20px;
+ background-color: black;
+    float: left;
+	justify-self: start;
+}
+.container{
+    column-count: 2;
+    column-rule-style: solid;
+    column-rule-width: 17px;
+    column-rule-color: #FF2B2F;
+    float: left;
+    align-self: left;
+    justify-content: left;
+    margin-top: -716.9px;
+    margin-left: -811px;
+    margin-right: -764px;
+    margin-bottom: -700px;
+}
+
+p11{
+    color: white;
+    font-family: "13 Misa";
+    font-size: 30px;
+    margin-top: 224px;
+    float: left;
+    margin-right: 136px;
+    margin-left: 324px;
+    background-color: black
+}
+
+p13{
+    color: white;
+    font-family: "future earth";
+    font-size: 15px;
+    margin-bottom: auto;
+    text-align: end;
+    background-color: black;
+}
+
+
+
+/* 10 *50 = 500px/
+
+
+
